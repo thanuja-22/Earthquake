@@ -1,0 +1,2 @@
+rootProject.name='rev5'
+include ':app'
